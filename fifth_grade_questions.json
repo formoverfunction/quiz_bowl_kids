@@ -1,0 +1,20 @@
+{
+    "questions": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+        "answer": "Jupiter"
+      },
+      {
+        "question": "In what state of matter is water at 0°C (32°F)?",
+        "answer": "Solid (ice)"
+      },
+      {
+        "question": "The author of \"Harry Potter\" is J.K. Rowling. What does \"J.K.\" stand for?",
+        "options": ["Julia Katherine", "Joanne Kathleen", "Jane Kimberly", "Joan Kelly"],
+        "answer": "Joanne Kathleen"
+      }
+      // ... more questions
+    ]
+  }
+  
