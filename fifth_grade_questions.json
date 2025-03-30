@@ -1,20 +1,247 @@
-{
-    "questions": [
-      {
-        "question": "What is the largest planet in our solar system?",
-        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
-        "answer": "Jupiter"
-      },
-      {
-        "question": "In what state of matter is water at 0°C (32°F)?",
-        "answer": "Solid (ice)"
-      },
-      {
-        "question": "The author of \"Harry Potter\" is J.K. Rowling. What does \"J.K.\" stand for?",
-        "options": ["Julia Katherine", "Joanne Kathleen", "Jane Kimberly", "Joan Kelly"],
-        "answer": "Joanne Kathleen"
-      }
-      // ... more questions
-    ]
-  }
-  
+[
+    {
+      "question": "What is the capital city of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "B"
+    },
+    {
+      "question": "The process by which plants make their own food using sunlight is called what?",
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which U.S. state is known as the Sunshine State?",
+      "options": ["California", "Texas", "Florida", "Hawaii"],
+      "answer": "C"
+    },
+    {
+      "question": "Who wrote the novel 'Charlotte's Web'?",
+      "answer": "E.B. White"
+    },
+    {
+      "question": "What do you call the molten rock that comes out of a volcano?",
+      "answer": "Lava"
+    },
+    {
+      "question": "Which ocean is the largest in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the term for an animal that only eats plants?",
+      "answer": "Herbivore"
+    },
+    {
+      "question": "Which shape has 5 sides?",
+      "options": ["Triangle", "Square", "Pentagon", "Hexagon"],
+      "answer": "C"
+    },
+    {
+      "question": "In what state of matter are the molecules packed most tightly together?",
+      "answer": "Solid"
+    },
+    {
+      "question": "What is the largest planet in our Solar System?",
+      "options": ["Mars", "Jupiter", "Saturn", "Earth"],
+      "answer": "B"
+    },
+    {
+      "question": "Who painted the 'Mona Lisa'?",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which organ in the human body pumps blood?",
+      "answer": "The heart"
+    },
+    {
+      "question": "What is the freezing point of water in degrees Celsius?",
+      "options": ["0", "32", "50", "100"],
+      "answer": "A"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "answer": "George Washington"
+    },
+    {
+      "question": "A line of poetry is often called what?",
+      "options": ["Stanza", "Verse", "Paragraph", "Chapter"],
+      "answer": "B"
+    },
+    {
+      "question": "What gas do humans breathe in that is necessary for life?",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which city was known as New Amsterdam before it was renamed?",
+      "answer": "New York City"
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["Carbon dioxide", "Ammonia", "Water", "Salt"],
+      "answer": "C"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "answer": "Africa"
+    },
+    {
+      "question": "What force pulls objects toward the center of the Earth?",
+      "options": ["Magnetism", "Friction", "Gravity", "Electricity"],
+      "answer": "C"
+    },
+    {
+      "question": "Who is the author of the book 'Matilda'?",
+      "answer": "Roald Dahl"
+    },
+    {
+      "question": "Which layer of Earth is directly below the crust?",
+      "answer": "The mantle"
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "B"
+    },
+    {
+      "question": "What gas do plants take in for photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Who discovered electricity by experimenting with a kite and key?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Benjamin Franklin", "Nikola Tesla"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the main language spoken in Brazil?",
+      "answer": "Portuguese"
+    },
+    {
+      "question": "Which part of a plant conducts photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the smallest unit of life in living organisms?",
+      "answer": "The cell"
+    },
+    {
+      "question": "What do you call a young frog?",
+      "options": ["Froglet", "Larva", "Tadpole", "Pollywog"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answer": "The Nile (though some sources consider the Amazon)"
+    },
+    {
+      "question": "The three states of matter commonly found on Earth are solid, liquid, and what?",
+      "options": ["Plasma", "Gas", "Vapor", "Aether"],
+      "answer": "B"
+    },
+    {
+      "question": "How many days are there in a leap year?",
+      "answer": "366"
+    },
+    {
+      "question": "Who is the protagonist of the 'Harry Potter' book series?",
+      "options": ["Frodo Baggins", "Harry Potter", "Hermione Granger", "Ron Weasley"],
+      "answer": "B"
+    },
+    {
+      "question": "What country is famous for inventing pizza and pasta dishes like spaghetti?",
+      "answer": "Italy"
+    },
+    {
+      "question": "Which part of your body helps you move and is attached to your bones?",
+      "options": ["Muscles", "Skin", "Veins", "Lungs"],
+      "answer": "A"
+    },
+    {
+      "question": "Which Greek mythological figure is known for holding the sky on his shoulders?",
+      "answer": "Atlas"
+    },
+    {
+      "question": "Who was the famous civil rights leader who delivered the 'I Have a Dream' speech?",
+      "options": ["Martin Luther King Jr.", "Nelson Mandela", "Malala Yousafzai", "Mahatma Gandhi"],
+      "answer": "A"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answer": "The blue whale"
+    },
+    {
+      "question": "In math, what do you call the answer to an addition problem?",
+      "options": ["Quotient", "Difference", "Product", "Sum"],
+      "answer": "D"
+    },
+    {
+      "question": "In which U.S. state will you find the Grand Canyon?",
+      "answer": "Arizona"
+    },
+    {
+      "question": "What are the three primary colors of light?",
+      "options": ["Red, Green, Blue", "Red, Yellow, Blue", "Green, Yellow, Purple", "Orange, Blue, Red"],
+      "answer": "A"
+    },
+    {
+      "question": "What term is used for a group of wolves?",
+      "answer": "A pack"
+    },
+    {
+      "question": "Which planet in our Solar System has rings that are easily visible from Earth through a telescope?",
+      "options": ["Venus", "Saturn", "Mars", "Neptune"],
+      "answer": "B"
+    },
+    {
+      "question": "Which famous scientist proposed the three laws of motion?",
+      "answer": "Sir Isaac Newton"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "B"
+    },
+    {
+      "question": "Which famous ship sank after hitting an iceberg in 1912?",
+      "answer": "The Titanic"
+    },
+    {
+      "question": "What are the two main political parties in the United States?",
+      "options": ["Green and Libertarian", "Democratic and Republican", "Conservative and Labour", "Federalist and Whig"],
+      "answer": "B"
+    },
+    {
+      "question": "In grammar, what is a word that shows action or state of being called?",
+      "answer": "A verb"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["England", "Canada", "France", "Germany"],
+      "answer": "C"
+    },
+    {
+      "question": "How many great lakes are there in North America?",
+      "answer": "Five"
+    },
+    {
+      "question": "In the Dewey Decimal System, what type of items does a library usually organize?",
+      "options": ["Movies", "Books", "Artwork", "Magazines"],
+      "answer": "B"
+    },
+    {
+      "question": "Which instrument has black and white keys and is played by pressing the keys with your fingers?",
+      "answer": "Piano"
+    },
+    {
+      "question": "What is the name for the large rainforest located in Brazil?",
+      "options": ["Sahara", "Congo", "Amazon", "Taiga"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the term for the liquid part of blood?",
+      "answer": "Plasma"
+    }
+  ]
